@@ -14,8 +14,8 @@ This is a lobby CLI, allow Accelbyte client to simulate all the lobby features
 ### Environment Variables
 | Name                       | Description                                   | Example Value                                                        |
 |----------------------------|-----------------------------------------------|----------------------------------------------------------------------|
-| LOBBY_BASE_URL             | Lobby websocket url                           | wss://the-lobby-url                            |
-| IAM_BASE_URL               | Redis lobby address port                      | https://the-iam-url                                                                 |
-| QOS_BASE_URL               | Redis lobby address password                  | https://the-qos-url                                                       |
-| IAM_CLIENT_ID              | Redis matchmaking address host                | 2ca0636b03154050ac85f771e978e44c                            |
-| IAM_CLIENT_SECRET          | Redis matchmaking address port                | client-secret-if-any                                                 |
+| LOBBY_BASE_URL             | Lobby websocket url                           | wss://the-lobby-url                                                  |
+| IAM_BASE_URL               | IAM base url                                  | https://the-iam-url                                                  |
+| QOS_BASE_URL               | QOS base url                                  | https://the-qos-url                                                  |
+| IAM_CLIENT_ID              | IAM client ID                                 | 2ca0636b03154050ac85f771e978e44c                                     |
+| IAM_CLIENT_SECRET          | IAM client secret                             | client-secret-if-any                                                 |
