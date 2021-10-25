@@ -1,7 +1,7 @@
 #rename this file to ".env" and fill the variable with the correct value
 
-LOBBY_BASE_URL=wss://lobby-base-url
-IAM_BASE_URL=https://iam-base-url
-QOS_BASE_URL=https://qos-base-url
-IAM_CLIENT_ID=iam_client_id
-IAM_CLIENT_SECRET=iam_client_secret_if_any
+LOBBY_BASE_URL=wss://demo.accelbyte.io/lobby/
+IAM_BASE_URL=https://demo.accelbyte.io/iam
+QOS_BASE_URL=https://demo.accelbyte.io/qosm
+IAM_CLIENT_ID=replace_with_iam_client_id
+IAM_CLIENT_SECRET=replace_with_iam_client_secret_if_any

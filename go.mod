@@ -1,4 +1,4 @@
-module accelbyte.net/justice-lobby-cli
+module accelbyte.net/accelbyte-lobby-cli
 
 go 1.16
 
