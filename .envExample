@@ -1,0 +1,6 @@
+#rename this file to ".env" and fill the variable with correct value
+LOBBY_BASE_URL=wss://lobby-base-url
+IAM_BASE_URL=https://iam-base-url
+QOS_BASE_URL=https://qos-base-url
+IAM_CLIENT_ID=iam_client_id
+IAM_CLIENT_SECRET=iam_client_secret_if_any
