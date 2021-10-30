@@ -9,7 +9,7 @@ This is a lobby CLI, allow Accelbyte client to simulate all the lobby features
 ## How to run
 * this project need some environment variables, you can define it directly in the Operation System or in `.env` file, 
   please check the ```.envExample``` for the sample
-* go to the main directory and run ```go run *.go```
+* go to the main directory and run ```go run .```
 
 ### Environment Variables
 | Name                       | Description                                   | Example Value                                                        |
